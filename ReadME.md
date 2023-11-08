@@ -1,7 +1,14 @@
 # Web Scraping using Scrapy
 
 ### Introduction
-This project aims to extract and transform data from an Ecommerce Wesite using the Scrapy Python Framework
+This project aims to extract the information about budget mobile phones from an Ecommerce Website using the Scrapy Framework.
 
-### Ecommerce platform used :
-[Ecommerce](
+Transform the extracted data and store it in a json file.
+
+### Ecommerce Platform Link :
+[Ecommerce_Link](https://www.noon.com/uae-en/budget-mobiles/)
+
+### Tool used : 
+Scrapy Framework
+
+
